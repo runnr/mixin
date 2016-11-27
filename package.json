@@ -1,0 +1,33 @@
+{
+	"name": "@runnr/mixin",
+	"version": "0.1.0",
+	"description": "An automated easy to use plugin based task runner.",
+	"keywords": [
+		"task",
+		"runner",
+		"automation",
+		"plugin"
+	],
+	"license": "GPL-3.0",
+	"author": {
+		"name": "Clemens Damke",
+		"email": "clemens@cortys.de",
+		"url": "http://www.cortys.de"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/runnr/mixin.git"
+	},
+	"engines": {
+		"node": "^6.5"
+	},
+	"main": "src/index.js",
+
+	"dependencies": {
+		"mixwith": "runnr/mixwith.js"
+	},
+	"devDependencies": {
+		"eslint": "3.10.2",
+		"eslint-config-cortys": "1.x"
+	}
+}
