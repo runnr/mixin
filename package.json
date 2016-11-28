@@ -2,13 +2,7 @@
 	"name": "@runnr/mixin",
 	"version": "0.1.0",
 	"description": "An automated easy to use plugin based task runner.",
-	"keywords": [
-		"task",
-		"runner",
-		"automation",
-		"plugin"
-	],
-	"license": "GPL-3.0",
+	"license": "LGPL-3.0",
 	"author": {
 		"name": "Clemens Damke",
 		"email": "clemens@cortys.de",
