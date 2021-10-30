@@ -16,12 +16,11 @@
 		"node": "^6.5"
 	},
 	"main": "src/index.js",
-
 	"dependencies": {
 		"mixwith": "runnr/mixwith.js"
 	},
 	"devDependencies": {
-		"eslint": "3.19.0",
-		"eslint-config-cortys": "1.x"
+		"eslint": "^8.1.0",
+		"eslint-config-cortys": "^2.2.0"
 	}
 }
